@@ -1,4 +1,4 @@
 name: NoBowRNG
-version: 0.1.a
+version: 1.0
 main: com.jreynolds97.plugin.NoBowRNG
 load: STARTUP
